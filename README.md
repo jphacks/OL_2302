@@ -1,6 +1,6 @@
 # pills
+<img width="300" alt="Screenshot 2023-10-26 at 10 58 36" src="https://github.com/jphacks/OL_2302/assets/88872183/bc470fed-6362-4b04-9410-190096c1a153">
 
-[![IMAGE ALT TEXT HERE](https://jphacks.com/wp-content/uploads/2023/07/JPHACKS2023_ogp.png)](https://www.youtube.com/watch?v=yYRQEdfGjEg)
 
 ## 製品概要
 ### 背景(製品開発のきっかけ、課題等）
@@ -13,7 +13,8 @@
 
 ## 簡単にアカウント作成ログイン
 <img width="100" alt="Screenshot 2023-10-26 at 10 58 36" src="https://github.com/jphacks/OL_2302/assets/88872183/d6320c9a-4c91-4d43-9eaf-ad679869ff2c">
-<img width="100" alt="Screenshot 2023-10-26 at 10 59 30" src="https://github.com/jphacks/OL_2302/assets/88872183/6f40aaae-3292-46ac-a658-9fbd56898a0d">
+<img width="100" alt="Screenshot 2023-10-26 at 10 5![Uploading icon.png…]()
+9 30" src="https://github.com/jphacks/OL_2302/assets/88872183/6f40aaae-3292-46ac-a658-9fbd56898a0d">
 
 ## ピルユーザーとパートナーを連携！
 <img width="100" alt="Screenshot 2023-10-26 at 11 00 12" src="https://github.com/jphacks/OL_2302/assets/88872183/5937f1cf-5206-4ddc-8672-57860dea5884">
