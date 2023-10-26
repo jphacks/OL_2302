@@ -24,7 +24,6 @@
 ## ピルを飲む時間に通知！
 <img width="100" alt="Screenshot 2023-10-26 at 11 00 31" src="https://github.com/jphacks/OL_2302/assets/88872183/4a90838b-803a-44c5-a9bd-2f9244aaa2e9">
 <img width="100" alt="Screenshot 2023-10-26 at 11 00 23 1" src="https://github.com/jphacks/OL_2302/assets/88872183/6609e649-6f37-48d2-aa59-0ca06e869581">
-<img width="100" alt="Screenshot 2023-10-26 at 11 00 23" src="https://github.com/jphacks/OL_2302/assets/88872183/ac92d9c3-7cd0-4610-b028-9036f493cac1">
 
 ## ピルのストックが減ったら通知で教えてくれる！
 <img width="100" alt="Screenshot 2023-10-26 at 11 00 46" src="https://github.com/jphacks/OL_2302/assets/88872183/1e3a2104-4389-4a78-8f72-bd941e3a3bf4">
@@ -34,10 +33,10 @@
 
 ## アプリ内でピルの情報を取得できる！
 <img width="100" alt="Screenshot 2023-10-26 at 11 01 01" src="https://github.com/jphacks/OL_2302/assets/88872183/dc84683a-f922-47d0-a319-aedf24e67a01">
-<img width="100" alt="Screenshot 2023-10-26 at 11 01 05" src="https://github.com/jphacks/OL_2302/assets/88872183/1879010b-72b0-45af-b4b9-219539102dd0">
+<img width="100" alt="Screenshot 2023-10-26 at 11 01 13" src="https://github.com/jphacks/OL_2302/assets/88872183/af261924-0522-4416-bec4-64a8634f7528">
 
 ##  設定はいつでも変更可能！
-<img width="100" alt="Screenshot 2023-10-26 at 11 01 13" src="https://github.com/jphacks/OL_2302/assets/88872183/af261924-0522-4416-bec4-64a8634f7528">
+<img width="100" alt="Screenshot 2023-10-26 at 11 01 05" src="https://github.com/jphacks/OL_2302/assets/88872183/1879010b-72b0-45af-b4b9-219539102dd0">
 
 
 
