@@ -2,7 +2,8 @@
 <img width="300" alt="Screenshot 2023-10-26 at 10 58 36" src="https://github.com/jphacks/OL_2302/assets/88872183/bc470fed-6362-4b04-9410-190096c1a153">![Screen Recording 2023-10-26 at 11 15 31 (1)](https://github.com/jphacks/OL_2302/assets/88872183/3aacae2f-82bd-4bba-97cc-51f7452195df)
 
 ## プロモーションビデオ
-https://youtu.be/OkE0pnPe-dM
+
+[!['低用量ピル管理アプリ「pills」']('https://github.com/jphacks/OL_2302/assets/88872183/79850c3a-128b-4596-9851-30ec81156a07')]('[Youtube動画のURL](https://youtu.be/OkE0pnPe-dM)')
 
 ## 製品概要
 ### 背景(製品開発のきっかけ、課題等）
