@@ -49,21 +49,37 @@ pillsはそんな現状を改善するために、男女問わず生理や低用
 <img width="100" alt="Screenshot 2023-10-26 at 11 01 05" src="https://github.com/jphacks/OL_2302/assets/88872183/1879010b-72b0-45af-b4b9-219539102dd0">
 
 
-
-
 ### 解決出来ること
-### 今後の展望
+* 低用量ピルの社会認識を広める
+  * 低用量ピルは避妊予防ためだけのものではない
+  * 月経不順の方は保険適用で買える
+  * 病院で処方される際に1回に３シートしかもらえない
+  * １シート3,000円近くかかる
 
-### 注力したこと（こだわり等）
-* 
-* 
+### 期待される効果
+* 低用量ピルによる不調などへの理解が進む
+* 低用量ピルの服用のハードルが下がり、女性の活動量が増える
+* 生理などの低用量ピルに関連するものへの正しい認識も広がる
+
+### 今後の展望
+## pillsからPMSまで管理できるpeaceに進化
+<img width="300" alt="Screenshot 2023-10-26 at 10 58 36" src="https://github.com/jphacks/OL_2302/assets/88872183/fa4fbfda-3921-4443-b727-8391b9369828">
+<img width="300" alt="Screenshot 2023-10-26 at 10 58 36" src="https://github.com/jphacks/OL_2302/assets/88872183/a1f24a9a-8cb2-49be-bf03-3a0938aa0f9f">
+<img width="300" alt="Screenshot 2023-10-26 at 10 58 36" src="https://github.com/jphacks/OL_2302/assets/88872183/27a2555b-2de4-487d-8f62-c936d502f83d">
+<img width="300" alt="Screenshot 2023-10-26 at 10 58 36" src="https://github.com/jphacks/OL_2302/assets/88872183/716837df-6bff-4acc-a1b6-3a82ab4df5e8">
+
+<img width="300" alt="Screenshot 2023-10-26 at 10 58 36" src="https://github.com/jphacks/OL_2302/assets/88872183/964bc1d6-703b-492f-8182-690297865c90">
+<img width="300" alt="Screenshot 2023-10-26 at 10 58 36" src="https://github.com/jphacks/OL_2302/assets/88872183/a86e3aca-ea6f-485b-a196-09a06c338031">
+<img width="300" alt="Screenshot 2023-10-26 at 10 58 36" src="https://github.com/jphacks/OL_2302/assets/88872183/fb8daeba-e1de-4a06-80d8-7ea4c36668d7">
+<img width="300" alt="Screenshot 2023-10-26 at 10 58 36" src="https://github.com/jphacks/OL_2302/assets/88872183/f19b79b9-b2f1-4bd6-a925-d9252f8ce7c4">
+
 
 ## 開発技術
 ### 活用した技術
 
 #### フレームワーク・ライブラリ・モジュール
-* 
-* 
+* Flutter
+* Firebase
 
 ### 競合比較
 * シンプルで洗練されたUI
