@@ -3,6 +3,8 @@
 
 ## プロモーションビデオ
 
+https://youtu.be/OkE0pnPe-dM
+
 <a href="https://youtu.be/OkE0pnPe-dM"><img width="1428" alt="Screenshot 2023-10-29 at 11 48 34" src="https://github.com/jphacks/OL_2302/assets/88872183/92c6eddd-9f4e-47f2-87cb-a73e8793fc97"></a>
 
 ## 製品概要
