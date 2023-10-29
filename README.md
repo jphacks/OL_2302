@@ -3,7 +3,7 @@
 
 ## プロモーションビデオ
 
-[!['低用量ピル管理アプリ「pills」']('https://github.com/jphacks/OL_2302/assets/88872183/79850c3a-128b-4596-9851-30ec81156a07')]('[Youtube動画のURL](https://youtu.be/OkE0pnPe-dM)')
+<a href="https://youtu.be/OkE0pnPe-dM"><img width="1428" alt="Screenshot 2023-10-29 at 11 48 34" src="https://github.com/jphacks/OL_2302/assets/88872183/92c6eddd-9f4e-47f2-87cb-a73e8793fc97"></a>
 
 ## 製品概要
 ### 背景(製品開発のきっかけ、課題等）
